@@ -15,6 +15,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Github:
+Github: https://github.com/cremeansemily/work-day-scheduler
 
 URL: https://cremeansemily.github.io/work-day-scheduler/
