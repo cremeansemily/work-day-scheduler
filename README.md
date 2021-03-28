@@ -17,4 +17,4 @@ THEN the saved events persist
 
 Github:
 
-URL:
+URL: https://cremeansemily.github.io/work-day-scheduler/
